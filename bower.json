@@ -1,0 +1,17 @@
+{
+    "name": "mirza-googlefont",
+    "license": "OFL",
+    "authors": [
+        "KB Studio"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/mirza-bower.git"
+    },
+    "description": "Mirza font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
